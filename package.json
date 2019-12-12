@@ -1,5 +1,5 @@
 {
-  "name": "mochawesome-screenshots",
+  "name": "mochawesome-screenshots-it-steps",
   "version": "0.0.1",
   "description": "DO NOT USE: A Gorgeous HTML/CSS Reporter for Mocha.js",
   "scripts": {
