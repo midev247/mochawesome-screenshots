@@ -1,4 +1,4 @@
-# mochawesome-screenshots
+# mochawesome-screenshots-it-steps
 This is a fork of Mochawesome(MochawesomePlusPlus) reporter with added screenshots functionality for Protractor.
 A reporter takes a screenshot after each failed Protractor test.
 
