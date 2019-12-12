@@ -1,6 +1,6 @@
 {
   "name": "mochawesome-screenshots-it-steps",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "DO NOT USE: A Gorgeous HTML/CSS Reporter for Mocha.js",
   "scripts": {
     "test": "gulp build"
