@@ -41,7 +41,7 @@
     "uuid": "^3.0.0"
   },
   "peerDependencies": {
-    "mocha": "*"
+    "mocha-it-steps": "*"
   },
   "devDependencies": {
     "bootstrap": "^3.3.2",
@@ -63,7 +63,7 @@
     "jquery": "^3.3.1",
     "jshint-stylish": "^1.0.0",
     "merge-stream": "^0.1.7",
-    "mocha": "~2",
+    "mocha-it-steps": "^0.0.5",
     "should": "^3.3.2"
   }
 }
